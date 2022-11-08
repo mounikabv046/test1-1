@@ -20,5 +20,5 @@ printf("\nEnter string to reverse");
     j--;
   }
 
-  printf("\nString After Reverse: %s", rev\n\n);
+  printf("\nString After Reverse: %s", rev);
 }
